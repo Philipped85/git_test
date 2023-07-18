@@ -1,1 +1,2 @@
 Bienvenue dans ce monde !
+Test du message dans VCS
